@@ -2,7 +2,7 @@
 
 ## First Step
 
-[] Make three new folders for `Quiz2`, `Quiz3`, `Quiz4`
+[x] Make three new folders for `Quiz2`, `Quiz3`, `Quiz4`
 
 ---
 
@@ -10,9 +10,9 @@
 
 The content I received from `prof` was:
 
-1. First:
-2. Second:
-3. Third:
+1. First:blue()
+2. Second:print()
+3. Third:anger
 
 ---
 >
