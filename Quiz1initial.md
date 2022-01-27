@@ -4,8 +4,6 @@
 
 ## Initial Checks
 
-SAVE THIS FILE (and the images if you want to see them in the local file) TO YOUR COMPUTER. OPEN IT IN SUBLIME, VISUAL STUDIO CODE, OR SOMETHING ELSE THAT CAN READ `.md` FILES
-
 Once you complete each step, check it complete.
 
 - [] this is not completed
@@ -21,9 +19,9 @@ Once you complete each step, check it complete.
    > `![image](/img/image.png "Image info")`
 
 2. Say Hello:
-   - [] find the `#quiz-1` channel on the `EECS 17xx Discord` server
+   - [] find the `#Quiz-1` channel on the `EECS 17xx Discord` server
      - do you have to join? if `yes`: ask a `TA` or `instructor` for the link. ASAP!
-     - [] Comment in the `#quiz-1` channel with your first name and your registered lab section
+     - [] Comment in the `#Quiz-1` channel with your first name and your registered lab section
        - example: Sarah Lab2
    - [] find the `General Forum` in our `eClass` course
      - [] on the `QUIZ 1` post, add a reply with `Hi - I am here` (this is a _crucial (extremely important)_ step)
@@ -46,17 +44,14 @@ The steps above must be completed before you can continue.
    - [] request to join your _Lab #_ team
    - [] request to join your _Lab TAs_ team
    - [] request to join the _Quiz 1_ team
-   
-   >
-   > let _your instructor know_ when you have sent the request: *SO IT CAN BE APPROVED ASAP*
-   > in the meantime.. continue on
-   >
 
-   ![first](/join-team.png "Step 1: Join the team")
+   > let _your instructor know_ when you have sent the request: *SO IT CAN BE APPROVED ASAP*
+
+   ![first](/img/join-team.png "Step 1: Join the team")
 
 2. [] Make a new repo
 
-   ![second](/make-repo.png "Step 2: Create a Repo")
+   ![second](/img/make-repo.png "Step 2: Create a Repo")
 
 3. Use the following criteria
    - [] firstname_lastname
@@ -64,7 +59,7 @@ The steps above must be completed before you can continue.
    - [] .git Node
    - [] MIT license
 
-   ![third](/criteria.png "Step 3: You must follow this format")
+   ![third](/img/criteria.png "Step 3: You must follow this format")
 
 ---
 
@@ -72,19 +67,19 @@ The steps above must be completed before you can continue.
 
 1. [] clone the `instructor's` _Quiz 1 template_ repo to your local drive
 
-   ![one](/clone-instr.png "Step 1: Clone the template repo")
+   ![one](/img/clone-instr.png "Step 1: Clone the template repo")
 
 2. [] clone your _new remote_ `firstname_lastname` repo to your local drive
 
-   ![two](/clone_your.png "Step 2: Clone the template repo")
+   ![two](/img/clone_your.png "Step 2: Clone the template repo")
 
 3. [] Copy _all_ the files and folders _as is_ from the  `Quiz 1 template` repo to your `new local` repo from step 2.
 
-   ![three](/copy.png "Step 3: Copy the template repo")
+   ![three](/img/copy.png "Step 3: Copy the template repo")
 
 4. [] git add, commit, and push your `local` repo to your `remote` repo on `robots-make-art-too`
 
-   ![four](/send-remote.png "Step 4: Push to remote")
+   ![four](/img/send-remote.png "Step 4: Push to remote")
 
 ## Back to Remote
 
