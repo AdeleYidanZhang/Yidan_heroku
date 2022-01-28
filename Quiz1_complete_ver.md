@@ -122,11 +122,11 @@ The steps above must be completed before you can continue.
 
 ## Submission
 
-1. [] Briefly update the `README.md` in the `Quiz1` folder with the technical information you completed and any instructions on how to run and view your `art-work`
+1. [x] Briefly update the `README.md` in the `Quiz1` folder with the technical information you completed and any instructions on how to run and view your `art-work`
 
-2. [] Briefly update the `STATEMENT.md` in the `Quiz1` folder with a thoughtful aesthetic response to how your technical choices reflect the emotion you were give.
+2. [x] Briefly update the `STATEMENT.md` in the `Quiz1` folder with a thoughtful aesthetic response to how your technical choices reflect the emotion you were give.
 
-3. [] Save all your work. Then `git add`, `git commit (with message)`, and `git push` your final form to your `remote` repo
+3. [x] Save all your work. Then `git add`, `git commit (with message)`, and `git push` your final form to your `remote` repo
 
 ---
 
