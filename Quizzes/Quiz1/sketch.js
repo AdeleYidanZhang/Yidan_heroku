@@ -60,8 +60,17 @@ function draw() {
   let whichBar = mouseX / barWidth;
   if (whichBar !== lastBar) {
     let barX = whichBar * barWidth;
-    fill(mouseY, height, height);
+
+    let from= color(255, mouseX, 150);
+    let to=color(mouseY,140, 150);
+    let interA = lerpColor(from, to, 0.49);
+    fill(interA, height, height);
+
+
     rect(barX, 0, barWidth, height);
     lastBar = whichBar;
+
+    ellipse(mouseX, mouseY, mouseX, mouseY);
   }
 }
+ 
