@@ -10,9 +10,9 @@
 
 The content I received from `prof` was:
 
-1. First:blue()
-2. Second:print()
-3. Third:anger
+1. First:lerpColor()
+2. Second:ellipse()
+3. Third:disgust
 
 ---
 >
