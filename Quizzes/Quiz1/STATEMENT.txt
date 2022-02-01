@@ -1,1 +1,3 @@
-I used lerColor() function to find the mix of two colors, then colors are desaturated. They are dim spiritless, just like who is feeling disgusted. Also, a weird-shapped ellipse is following the position of mouse, making people feel a little bit uncomfortable.
+I used lerColor() function to find the mix of two colors, then colors are desaturated. 
+They are dim spiritless, just like who is feeling disgusted. 
+Also, a weird-shapped ellipse is following the position of mouse, making people feel a little bit uncomfortable.
