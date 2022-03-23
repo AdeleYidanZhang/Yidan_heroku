@@ -1,6 +1,6 @@
 # Setup virtrual environment `venv` and install `Flask` and `gunicorn`
-Status: Complete
-![venv](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/26deda2806e5ed4d12eb787ad7fcd75cd655b8e5/img/venv.PNG)
+- Status: Complete
+- ![venv](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/26deda2806e5ed4d12eb787ad7fcd75cd655b8e5/img/venv.PNG)
 
 ## About my server&`app.py`
 what it does, what it uses, how it is different than anything we;ve done; and your statement is about why you did what you did, who is it designed for, why is it interesting? or sad? or why did you decide to make it do what it does? who cares? does it? hurt? block? encourage? reflect?
