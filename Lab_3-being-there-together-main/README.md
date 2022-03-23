@@ -1,10 +1,6 @@
-# Setup Instructions
+# Setup virtrual environment `venv` and install `Flask` and `gunicorn`
+Status: Complete
 
-The steps we need for deploying the webapp on heroku, testing locally with localhost, and the files you will use within the python virtual environment. Remember - we need to _package_ the content to deploy the app.. you probably definitely might want to read:
-
-1. this regarding [python virtual environments](https://medium.com/co-learning-lounge/create-virtual-environment-python-windows-2021-d947c3a3ca78) (anaconda/conda virtual environment setup is also explained in the article as is a general setup for a virtual environment - like we did for lab)
-2. also helpful [pip in windows and unix](https://pip.pypa.io/en/stable/cli/pip/)
-3. and setup [default python interpreter VS Code](https://python.plainenglish.io/how-to-set-default-python-interpreter-in-vs-code-76c38c210dc3)
 
 ## Steps
 
