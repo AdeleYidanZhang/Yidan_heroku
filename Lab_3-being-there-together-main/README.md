@@ -2,26 +2,15 @@
 Status: Complete
 ![venv](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/26deda2806e5ed4d12eb787ad7fcd75cd655b8e5/img/venv.PNG)
 
-## Steps
-
-1. clone/grab the Lab3 and sample_site folder
-2. IMPORTANT:: make sure the sample_site `IS ITS OWN REPO` so you are doing two things here that we covered in Lab 3 part a):: 
-   - clone tho repo `being-there-together` into `robots`
-   - copy the `sample_site` folder and _make a new repo_ (can be on your personal `GitHub`) and _this_ will be the source for the `Heroku` connection and where you set up the `python venv`
-   - you will later copy the code from your personal repo into the submission folder `being-there-together` for marking and so we know what your final submission version is (along with the link `Heroku` gives you for your app website)
-3. make sure the folder inside sample_site is `templates/` with an `s` (just in case something changed)
-5. create the python `virtual environment` using `venv`
-6. activate the `virtual environment`
-7. now we can install the python environment libraries with `pip`
-8. at this point you already have the files from lab (double check):
-   - count.txt
-   - requirements.txt
-   - app.py
-   - Procfile
-   - templates/index.html
-9. connect to, and deploy with, `Heroku`
-
----
+## About my server&`app.py`
+what it does, what it uses, how it is different than anything we;ve done; and your statement is about why you did what you did, who is it designed for, why is it interesting? or sad? or why did you decide to make it do what it does? who cares? does it? hurt? block? encourage? reflect?
+1. This is a server made by cats, they are cats from another planet, and they made a server for human to visit.
+2. In this server, human can see how many human have visited the site
+3. To see cat's photo album, you have to login first.
+4. They already set a user name and password for human, type them to login!
+ - username: human
+ - password:iamhuman
+5. 
 
 ## Commands to run
 
