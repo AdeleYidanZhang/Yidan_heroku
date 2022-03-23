@@ -1,6 +1,6 @@
 # Setup virtrual environment `venv` and install `Flask` and `gunicorn`
 Status: Complete
-
+![venv](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/26deda2806e5ed4d12eb787ad7fcd75cd655b8e5/img/venv.PNG)
 
 ## Steps
 
