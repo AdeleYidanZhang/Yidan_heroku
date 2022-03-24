@@ -12,7 +12,7 @@ what it does, what it uses, how it is different than anything we;ve done; and yo
 4. They already set a user name and password for human, type them to login!
  - username: human
  - password:iamhuman
- - ![login_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/26deda2806e5ed4d12eb787ad7fcd75cd655b8e5/img/venv.PNG)
+ - ![login_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/c4b6d9c19732ebedf4811c073bfd7f7816cdf46f/img/site2.PNG)
 7. 
 
 ## Commands to run
