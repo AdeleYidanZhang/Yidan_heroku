@@ -4,9 +4,9 @@
 
 ## About my server&`app.py`
 what it does, what it uses, how it is different than anything we;ve done; and your statement is about why you did what you did, who is it designed for, why is it interesting? or sad? or why did you decide to make it do what it does? who cares? does it? hurt? block? encourage? reflect?
-1. This is a server made by cats, they are cats from another planet, and they made a server for human to visit.
+1. This is a server made by cats, they are cats from another planet, and they made a server for human to visit, click the button to sign in
 - ![first_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/de3371d74bae0fa853a51f1c858a94c99c449aa5/img/site1.PNG)
-2. In this server, human can see how many human have visited the site
+2. In this server, human can see how many human have visited the site(after you sign in)
 - ![visit_numbers](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/c4b6d9c19732ebedf4811c073bfd7f7816cdf46f/img/site2.PNG)
 3. To see cat's photo album, you have to login first.
 4. They already set a user name and password for human, type them to signin!
