@@ -8,13 +8,12 @@ what it does, what it uses, how it is different than anything we;ve done; and yo
 - ![first_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/de3371d74bae0fa853a51f1c858a94c99c449aa5/img/site1.PNG)
 2. In this server, human can see how many human have visited the site(after you sign in)
 3. The cats also prepared a photo album for human, to see cat's photo album, you also have to login first.
-4. They already set a user name and password for human, type them to signin!
+4. They already set a username and password for human, type them to signin!
  - username: human
  - password:iamhuman
  - ![login_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/c4b6d9c19732ebedf4811c073bfd7f7816cdf46f/img/site2.PNG)
- - ![visit_numbers](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/5af436b03851872557869109246f5bc089b8ec1e/img/site3.PNG)
 6. If the username and password are correct, you will see:
- - ![album_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/c4b6d9c19732ebedf4811c073bfd7f7816cdf46f/img/site2.PNG)
+ - ![visit_numbers](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/5af436b03851872557869109246f5bc089b8ec1e/img/site3.PNG)
 
 ## Commands to run
 
