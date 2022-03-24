@@ -15,7 +15,7 @@ what it does, what it uses, how it is different than anything we;ve done; and yo
  - ![login_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/c4b6d9c19732ebedf4811c073bfd7f7816cdf46f/img/site2.PNG)
 6. If the username and password are correct, you will see:(if they are not correct, it will show "Wrong user name and password")
  - ![visit_numbers](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/5af436b03851872557869109246f5bc089b8ec1e/img/site3.PNG)
-7. Then, click the button, you will see cat's photo album
+7. Then, click the button, you will see cat's photo album (8 pictures)
  - ![album_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/a64a7b06241f4afe9171edc89ffe5de59cea4132/img/site4.PNG)
 
 ## HEROKU
