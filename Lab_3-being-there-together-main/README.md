@@ -7,13 +7,14 @@ what it does, what it uses, how it is different than anything we;ve done; and yo
 1. This is a server made by cats, they are cats from another planet, and they made a server for human to visit, click the button to sign in
 - ![first_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/de3371d74bae0fa853a51f1c858a94c99c449aa5/img/site1.PNG)
 2. In this server, human can see how many human have visited the site(after you sign in)
-- ![visit_numbers](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/c4b6d9c19732ebedf4811c073bfd7f7816cdf46f/img/site2.PNG)
+- ![visit_numbers](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/5af436b03851872557869109246f5bc089b8ec1e/img/site3.PNG)
 3. To see cat's photo album, you have to login first.
 4. They already set a user name and password for human, type them to signin!
  - username: human
  - password:iamhuman
  - ![login_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/c4b6d9c19732ebedf4811c073bfd7f7816cdf46f/img/site2.PNG)
-7. 
+5. If the username and password are correct, you will see:
+ - ![album_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/c4b6d9c19732ebedf4811c073bfd7f7816cdf46f/img/site2.PNG)
 
 ## Commands to run
 
