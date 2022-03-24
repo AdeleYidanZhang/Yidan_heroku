@@ -1,61 +1,22 @@
 # Setup virtrual environment `venv` and install `Flask` and `gunicorn`
-Status: Complete
+- Status: Completed!!Check the sceenshot
+- ![venv](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/26deda2806e5ed4d12eb787ad7fcd75cd655b8e5/img/venv.PNG)
 
-
-## Steps
-
-1. clone/grab the Lab3 and sample_site folder
-2. IMPORTANT:: make sure the sample_site `IS ITS OWN REPO` so you are doing two things here that we covered in Lab 3 part a):: 
-   - clone tho repo `being-there-together` into `robots`
-   - copy the `sample_site` folder and _make a new repo_ (can be on your personal `GitHub`) and _this_ will be the source for the `Heroku` connection and where you set up the `python venv`
-   - you will later copy the code from your personal repo into the submission folder `being-there-together` for marking and so we know what your final submission version is (along with the link `Heroku` gives you for your app website)
-3. make sure the folder inside sample_site is `templates/` with an `s` (just in case something changed)
-5. create the python `virtual environment` using `venv`
-6. activate the `virtual environment`
-7. now we can install the python environment libraries with `pip`
-8. at this point you already have the files from lab (double check):
-   - count.txt
-   - requirements.txt
-   - app.py
-   - Procfile
-   - templates/index.html
-9. connect to, and deploy with, `Heroku`
-
----
-
-## Commands to run
-
-1. python3 -m venv venv
-   - this assumes that the `python` version you are using (and saved as) is `python3`
-   - `venv` is the command to make the virtual environment
-   - we name our venv `venv`
-   - think of `-m` as to make the `venv` (but really it is for `module`)
-
-2. source venv/bin/activate
-   - this is for `Unix/Linux/Mac`
-
-3. source .\venv\Scripts\activate
-   - this is for `Windows`
-
-to get out of a venv? type:
-> `deactivate`
-
-4. your terminal should look like this (`Windows`):
-
-``` Terminal
-(venv) Path\to\sample_site\
-```
-
-5. pip install flask gunicorn
-   - `flask` is a `Python` package to make an interactive app 
-   - `gunicorn` is the `Python` web server interface we are using
-   - maybe you use `pip3`
-   - maybe you need to setup `VS Code` a bit more first (this will be in the video)
-
-6. we already have the files but you can also generate a `requirements.txt` to ensure your app is running the proper python library versions with:
-   - pip freeze > requirements.txt  (might just work for `Linux` I'll double check `Windows` later)
-
----
+## About my server&`app.py`
+what it does, what it uses, how it is different than anything we;ve done; and your statement is about why you did what you did, who is it designed for, why is it interesting? or sad? or why did you decide to make it do what it does? who cares? does it? hurt? block? encourage? reflect?
+1. This is a server made by cats, they are cats from another planet, and they made a server for human to visit, click the button to sign in
+- ![first_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/de3371d74bae0fa853a51f1c858a94c99c449aa5/img/site1.PNG)
+2. In this server, human can see how many human have visited the site(after you sign in)
+3. The cats also prepared a photo album for human, to see cat's photo album, you also have to sign in first.
+4. Click the `sign in` button to sign in
+5. They already set a username and password for human, type them to sign in!
+ - username: `human`
+ - password: `iamhuman`
+ - ![login_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/c4b6d9c19732ebedf4811c073bfd7f7816cdf46f/img/site2.PNG)
+6. If the username and password are correct, you will see:(if they are not correct, it will show "Wrong user name and password")
+ - ![visit_numbers](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/5af436b03851872557869109246f5bc089b8ec1e/img/site3.PNG)
+7. Then, click the button, you will see cat's photo album (8 pictures)
+ - ![album_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/a64a7b06241f4afe9171edc89ffe5de59cea4132/img/site4.PNG)
 
 ## HEROKU
 
