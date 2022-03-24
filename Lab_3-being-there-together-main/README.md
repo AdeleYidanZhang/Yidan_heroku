@@ -16,40 +16,7 @@ what it does, what it uses, how it is different than anything we;ve done; and yo
 6. If the username and password are correct, you will see:(if they are not correct, it will show "Wrong user name and password")
  - ![visit_numbers](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/5af436b03851872557869109246f5bc089b8ec1e/img/site3.PNG)
 7. Then, click the button, you will see cat's photo album
- - ![album_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/5af436b03851872557869109246f5bc089b8ec1e/img/site3.PNG)
-## Commands to run
-
-1. python3 -m venv venv
-   - this assumes that the `python` version you are using (and saved as) is `python3`
-   - `venv` is the command to make the virtual environment
-   - we name our venv `venv`
-   - think of `-m` as to make the `venv` (but really it is for `module`)
-
-2. source venv/bin/activate
-   - this is for `Unix/Linux/Mac`
-
-3. source .\venv\Scripts\activate
-   - this is for `Windows`
-
-to get out of a venv? type:
-> `deactivate`
-
-4. your terminal should look like this (`Windows`):
-
-``` Terminal
-(venv) Path\to\sample_site\
-```
-
-5. pip install flask gunicorn
-   - `flask` is a `Python` package to make an interactive app 
-   - `gunicorn` is the `Python` web server interface we are using
-   - maybe you use `pip3`
-   - maybe you need to setup `VS Code` a bit more first (this will be in the video)
-
-6. we already have the files but you can also generate a `requirements.txt` to ensure your app is running the proper python library versions with:
-   - pip freeze > requirements.txt  (might just work for `Linux` I'll double check `Windows` later)
-
----
+ - ![album_page](https://github.com/AdeleYidanZhang/Yidan_heroku/blob/a64a7b06241f4afe9171edc89ffe5de59cea4132/img/site4.PNG)
 
 ## HEROKU
 
